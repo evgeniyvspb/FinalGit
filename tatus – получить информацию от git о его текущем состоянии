@@ -1,0 +1,23 @@
+[33mcommit baba49f6ca9d4700785764510380d9b960d26de8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Evgeniy Volodin <volodin1981@yandex.ru>
+Date:   Sun Dec 4 16:33:32 2022 +0300
+
+    переименовали
+
+[33mcommit 3acb26c4302a75d01b32c63f515f42574d97987a[m
+Author: Evgeniy Volodin <volodin1981@yandex.ru>
+Date:   Sun Dec 4 16:24:26 2022 +0300
+
+    добавили борк про настройки
+
+[33mcommit fd3581b6bc174e25cdee82f1d5223a8a5fb60b45[m
+Author: Evgeniy Volodin <volodin1981@yandex.ru>
+Date:   Thu Dec 1 11:13:44 2022 +0300
+
+    исправили ошибки в тексте
+
+[33mcommit d056fada87a5719e9cc35dadbce093a905bbe3a7[m
+Author: Evgeniy Volodin <volodin1981@yandex.ru>
+Date:   Thu Dec 1 10:49:39 2022 +0300
+
+    add file gig instr
